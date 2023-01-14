@@ -2,8 +2,8 @@
 
 > 2023.01.08부터 2023.02.26까지 6주 간 진행되는 '면접을 위한 CS 전공지식 노트' 스터디입니다. <br>
 > 디자인 패턴, 네트워크, 운영체제, 데이터베이스, 자료 구조 등 CS(Computer Science) 전공지식을 학습합니다.
->
-> <br>
+
+<br>
 
 <img src="./book-thumbnail.png" alt="cs book" width="400" height="400">
 
