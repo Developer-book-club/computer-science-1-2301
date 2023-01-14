@@ -31,46 +31,53 @@
 
 # 📅 일정
 
-| 일정  |       날짜       |      범위       | 완료여부 |                 참여자                 | 발표자 |
-| :---: | :--------------: | :-------------: | :------: | :------------------------------------: | :----: |
-| 0주차 | 01.08 (일) 15:00 |       OT        |    ✅    | 김다영, 박진희, 이도원, 한승주, 한윤호 |        |
-| 1주차 | 01.15 (일) 15:00 |  1장 (p.15~66)  |          |                                        |        |
-| 2주차 | 01.29 (일) 15:00 | 2장 (p.67~132)  |          |                                        |        |
-| 3주차 | 02.05 (일) 25:00 | 3장 (p.133~182) |          |                                        |        |
-| 4주차 | 02.12 (일) 15:00 | 4장 (p.183~230) |          |                                        |        |
-| 5주차 | 02.19 (일) 15:00 | 5장 (p.231~262) |          |                                        |        |
-| 6주차 | 02.26 (일) 15:00 | 6장 (p.263~285) |          |                                        |        |
+| 일정  |       날짜       |      범위       | 완료여부 | 발표자 |
+| :---: | :--------------: | :-------------: | :------: | :----: |
+| 0주차 | 01.08 (일) 15:00 |       OT        |    ✅    |        |
+| 1주차 | 01.15 (일) 15:00 |  1장 (p.15~66)  |          |        |
+| 2주차 | 01.29 (일) 15:00 | 2장 (p.67~132)  |          |        |
+| 3주차 | 02.05 (일) 25:00 | 3장 (p.133~182) |          |        |
+| 4주차 | 02.12 (일) 15:00 | 4장 (p.183~230) |          |        |
+| 5주차 | 02.19 (일) 15:00 | 5장 (p.231~262) |          |        |
+| 6주차 | 02.26 (일) 15:00 | 6장 (p.263~285) |          |        |
 
 <br>
 
 # 🙋‍♀ 스터디 멤버
 
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/51114857?v=4">
-
-[김다영](https://github.com/lizzykim)
-
-<br>
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/100392709?v=4">
-
-[박진희](https://github.com/JJinne)
-
-<br>
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/63295780?v=4">
-
-[이도원](https://github.com/2dowon)
-
-<br>
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/121699106?v=4">
-
-[한승주](https://github.com/hansjoo24)
-
-<br>
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/59544181?v=4">
-
-[한윤호](https://github.com/HanYounho)
-
-<br>
+<table>
+    <tr align="center">
+        <td><B>김다영<B></td>
+        <td><B>박진희<B></td>
+        <td><B>이도원<B></td>
+        <td><B>한승주<B></td>
+        <td><B>한윤호<B></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <img src="https://github.com/lizzykim.png?size=100" width="100" height="100">
+            <br>
+            <a href="https://github.com/lizzykim"><I>lizzykim</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/JJinne.png?size=100" width="100" height="100">
+            <br>
+            <a href="https://github.com/JJinne"><I>JJinne</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/2dowon.png?size=100" width="100" height="100">
+            <br>
+            <a href="https://github.com/2dowon"><I>2dowon</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/hansjoo24.png?size=100" width="100" height="100">
+            <br>
+            <a href="https://github.com/hansjoo24"><I>hansjoo24</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/HanYounho.png?size=100" width="100" height="100">
+            <br>
+            <a href="https://github.com/HanYounho"><I>HanYounho</I></a>
+        </td>
+    </tr>
+</table>
