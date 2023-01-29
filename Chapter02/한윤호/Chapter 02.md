@@ -251,10 +251,6 @@ IP, ARP, ICMP 등이 있으며, 패킷을 수신해야 할 상대의 주소를 �
 ##### 이더넷 프레임
 데이터 링크 계층은 이더넷 프레임을 통해 전달받은 데이터의 에러를 검출하고 캡슐화합니다.
 
-<br/>
-<img src="/Chapter02/한윤호/img/5.jpg"></img><br/>
-<br/>
-
 - Preamble : 이더넷 프레임이 시작임을 알립니다   
 - SFD(Start Frame Delimiter) : 다음 바이트부터 MAC 주소 필드가 시작됨을 알립니다   
 - DMAC, SMAC : 수신, 송신 MAC 주소를 말합니다   
